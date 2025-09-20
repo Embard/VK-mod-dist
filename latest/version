@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "files": {
+    "VK_Mod.dll":  "VK_Mod.dll",
+    "VK_Core.dll": "VK_Core.dll"
+  },
+  "note": "Первый релиз автoобновления"
+}
