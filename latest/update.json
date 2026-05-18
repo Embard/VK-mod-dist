@@ -1,0 +1,7 @@
+{
+  "version": "1.0.1",
+  "packageUrl": "https://raw.githubusercontent.com/Embard/VK-mod-dist/main/latest/VK_Mods_update_1.0.1.zip",
+  "sha256": "PUT_REAL_SHA256_HERE",
+  "notes": "Описание изменений",
+  "minLoaderVersion": "1.0.0"
+}

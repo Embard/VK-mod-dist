@@ -1,0 +1,5 @@
+{
+  "enableAutoUpdate": true,
+  "updateManifestUrl": "https://raw.githubusercontent.com/Embard/VK-mod-dist/main/latest/update.json",
+  "timeoutSeconds": 15
+}
