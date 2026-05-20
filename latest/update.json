@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.2",
-    "packageUrl":  "https://raw.githubusercontent.com/Embard/VK-mod-dist/main/latest/VK_Mods_update_1.0.2.zip",
-    "sha256":  "96EDBD8AE87D6593ED73C7E3A3FB8250BA216FBC88689C9D54BFAA0BEBB9B932",
-    "notes":  "VK Mods update",
+    "version":  "1.0.3",
+    "packageUrl":  "https://raw.githubusercontent.com/Embard/VK-mod-dist/main/latest/VK_Mods_update_1.0.3.zip",
+    "sha256":  "D533928F30CD2F4F8560618306B76B7B1B9366D26F5F6BEE43C422FA8388C322",
+    "notes":  "Добавлена кнопка перпендикулярные трубы",
     "minLoaderVersion":  "1.0.0"
 }
