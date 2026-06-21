@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.3",
-    "packageUrl":  "https://raw.githubusercontent.com/Embard/VK-mod-dist/main/latest/VK_Mods_update_1.0.3.zip",
-    "sha256":  "98B2F51F9ABAFD9ADE228408E032D4EE15D9A2A263F3A7B5E3CA5A501F22D12E",
+    "version":  "1.0.4",
+    "packageUrl":  "https://raw.githubusercontent.com/Embard/VK-mod-dist/main/latest/VK_Mods_update_1.0.4.zip",
+    "sha256":  "5B2F168478B3FAE916E50EA537E31385662C4C2D0CF37DFE76E4C925D6497DDC",
     "notes":  "VK Mods update",
     "minLoaderVersion":  "1.0.0"
 }
