@@ -1,7 +1,7 @@
 ﻿{
-    "version":  "1.0.3",
-    "packageUrl":  "https://raw.githubusercontent.com/Embard/VK-mod-dist/main/latest/VK_Mods_update_1.0.3.zip",
-    "sha256":  "5B2F168478B3FAE916E50EA537E31385662C4C2D0CF37DFE76E4C925D6497DDC",
-    "notes":  "VK Mods update",
+    "version":  "1.0.5",
+    "packageUrl":  "https://raw.githubusercontent.com/Embard/VK-mod-dist/main/latest/VK_Mods_update_1.0.5.zip",
+    "sha256":  "126634C35978BE911C14705863E21C3B9771C4B7F2F6DA2372F63E9343C754DC",
+    "notes":  "добавлена гидравлика систем",
     "minLoaderVersion":  "1.0.0"
 }
